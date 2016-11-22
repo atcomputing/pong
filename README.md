@@ -4,6 +4,7 @@ Pong is one of the earliest arcade video games and the very first sports arcade
 video game. It was the first game developed by Atari Inc. and this is a version
 that runs on a GNU/Linux system.
 
+# Demoing github
 
 # Building
 
@@ -33,4 +34,4 @@ Use the up and down arrow keys to move the paddle.
 
 * Original author: Bruno Guedes (http://brazmogu.com.br/)
 * Updated for Git course: Martijn Brekhof <m.brekhof@gmail.com>
-
+* Me
